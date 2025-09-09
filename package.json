@@ -1,0 +1,20 @@
+{
+  "name": "backend-qualification-exercises",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^8.4.1",
+    "@highoutput/delay": "^0.2.8",
+    "@types/jest": "^29.5.12",
+    "@types/node": "^20.11.19",
+    "@types/ramda": "^0.29.10",
+    "jest": "^29.7.0",
+    "ramda": "^0.29.1",
+    "ts-jest": "^29.1.2",
+    "ts-node": "^10.9.2",
+    "tslib": "^2.6.2",
+    "typescript": "^5.3.3"
+  }
+}
